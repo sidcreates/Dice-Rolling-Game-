@@ -1,5 +1,5 @@
 # Dice-Rolling-Game-
-Python Mini Project
+Python Mini Projectt
 Design a project where as an input student will give a static number (between 1 to 6) and then
 roll the dice which randomly generate some value between 1 to 6. The winning situation arrives
 when the given static/fixed number exactly same to the number came after rolling the dice.
